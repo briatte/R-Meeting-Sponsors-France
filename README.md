@@ -6,11 +6,11 @@ The [Google Sheets version](https://docs.google.com/spreadsheets/d/14n-TD3EmvkoB
 
 - __v0.1__ (2019-07-12)
 
-Each version of the dataset will be listed as a separate [release](releases).
+Each version of the dataset will be listed as a separate [release](https://github.com/briatte/R-Meeting-Sponsors-France/releases).
 
 # Issues
 
-Please list corrections in the [issues](issues) of this repository.
+Please list corrections in the [issues](https://github.com/briatte/R-Meeting-Sponsors-France/issues) of this repository.
 
 # License
 
