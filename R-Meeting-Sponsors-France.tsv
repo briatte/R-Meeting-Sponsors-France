@@ -1,0 +1,200 @@
+year	event	city	source_url	sponsor	sponsor_name	sponsor_role	sponsor_sector	sponsor_type	sponsor_domain	sponsor_url	organiser	order
+2009	useR!	Rennes	https://www.r-project.org/conferences/useR-2009/	Agrocampus Ouest	Agrocampus Ouest	academic	public	higher education	agronomy	http://www.agrocampus-rennes.fr/	1	1
+2009	useR!	Rennes	https://www.r-project.org/conferences/useR-2009/	R Foundation	R Foundation for Statistical Computing	academic	nonprofit	software developer	statistics	http://www.r-project.org/foundation/		2
+2009	useR!	Rennes	https://www.r-project.org/conferences/useR-2009/	M. Rennes	Rennes Métropole	government	public	government	NA	http://www.rennes-metropole.fr/		3
+2009	useR!	Rennes	https://www.r-project.org/conferences/useR-2009/	Ille-et-Vilaine	Département d'Ille-et-Vilaine	government	public	government	NA	http://www.ille-et-vilaine.fr/		4
+2009	useR!	Rennes	https://www.r-project.org/conferences/useR-2009/	M. Rennes	Ville de Rennes	government	public	government	NA	http://www.rennes.fr/		5
+2009	useR!	Rennes	https://www.r-project.org/conferences/useR-2009/	ENSAI	École Nationale de la Statistique et de l'Analyse de l'Information	academic	public	higher education	statistics,computer science	http://www.ensai.com/		6
+2009	useR!	Rennes	https://www.r-project.org/conferences/useR-2009/	ENS Cachan	ENS Cachan Bretagne	academic	public	higher education	mathematics	http://www.math.bretagne.ens-cachan.fr/		7
+2009	useR!	Rennes	https://www.r-project.org/conferences/useR-2009/	R. Bretagne	Région Bretagne	government	public	government	NA	http://www.region-bretagne.fr/		8
+2009	useR!	Rennes	https://www.r-project.org/conferences/useR-2009/	SFdS	Société Française de Statistique	academic	nonprofit	scientific society	statistics	http://www.sfds.asso.fr/		9
+2009	useR!	Rennes	https://www.r-project.org/conferences/useR-2009/	U. Rennes 2	Université Rennes 2 Haute-Bretagne	academic	public	higher education	NA	http://www.uhb.fr/index.jsp		10
+2009	useR!	Rennes	https://www.r-project.org/conferences/useR-2009/	CRC Press	Chapman & Hall/CRC Press (Taylor & Francis)	company	private	academic publisher	NA	https://www.crcpress.com/		11
+2009	useR!	Rennes	https://www.r-project.org/conferences/useR-2009/	Springer	Springer Publishing	company	private	academic publisher	NA	http://www.springer.com/		12
+2009	useR!	Rennes	https://www.r-project.org/conferences/useR-2009/	Revolution Computing	Revolution Computing	company	private	software developer	NA	http://www.revolution-computing.com/		13
+2009	useR!	Rennes	https://www.r-project.org/conferences/useR-2009/	SFB	Société Française de Biométrie	academic	nonprofit	scientific society	biometrics	http://www.sfb.asso.fr/		14
+2009	useR!	Rennes	https://www.r-project.org/conferences/useR-2009/	Google	Google	company	private	software developer	NA	http://www.google.fr/firefox?client=firefox-a&rls=org.mozilla:fr:official		15
+2009	useR!	Rennes	https://www.r-project.org/conferences/useR-2009/	Wirefly	Wirefly	company	private	telecom vendor (?)	telecommunications	http://www.wirefly.com/		16
+2009	useR!	Rennes	https://www.r-project.org/conferences/useR-2009/	Mango Solutions	Mango Solutions	company	private	statistical consulting	NA	http://www.mango-solutions.com/		17
+2009	useR!	Rennes	https://www.r-project.org/conferences/useR-2009/	Air France	Air France/KLM	company	private*?	large company	transport	http://www.airfranceklm-globalmeetings.com/		18
+2009	useR!	Rennes	https://www.r-project.org/conferences/useR-2009/	Netezza	Netezza (IBM)	company	private	software developer	NA	http://www.netezza.com/		19
+2009	useR!	Rennes	https://www.r-project.org/conferences/useR-2009/	TIBCO	TIBCO	company	private	software developer	NA	http://www.tibco.com/		20
+2009	useR!	Rennes	https://www.r-project.org/conferences/useR-2009/	Coheris Spad	Coheris Spad	company	private	software developer	statistics	http://eng.spad.eu/		21
+2012	Rencontres R	Bordeaux	http://r2012.bordeaux.inria.fr/partenaires.html	INRIA	Institut National de Recherche en Informatique et en Automatique	academic	public	national research institute	computer science	http://www.inria.fr/	1	22
+2012	Rencontres R	Bordeaux	http://r2012.bordeaux.inria.fr/partenaires.html	U. Bordeaux	Université de Bordeaux	academic	public	higher education	NA	http://www.univ-bordeaux.fr/	1	23
+2012	Rencontres R	Bordeaux	http://r2012.bordeaux.inria.fr/partenaires.html	IMB	Institut de Mathématiques de Bordeaux	academic	public	local research institute	mathematics	http://www.math.u-bordeaux1.fr/maths/	1	24
+2012	Rencontres R	Bordeaux	http://r2012.bordeaux.inria.fr/partenaires.html	SFdS	Société Française de Statistique	academic	nonprofit	scientific society	statistics	http://www.sfds.asso.fr/		25
+2012	Rencontres R	Bordeaux	http://r2012.bordeaux.inria.fr/partenaires.html	SFB	Société Française de Biométrie	academic	nonprofit	scientific society	biometrics	http://www.sfb.asso.fr/		26
+2012	Rencontres R	Bordeaux	http://r2012.bordeaux.inria.fr/partenaires.html	SMAI	Société de Mathématiques Appliquées et Industrielles	academic	nonprofit	scientific society	mathematics	http://smai.emath.fr/		27
+2012	Rencontres R	Bordeaux	http://r2012.bordeaux.inria.fr/partenaires.html	Danone	Danone Research, Centre Daniel Carasso	company	private	industrial research	agronomy	http://recherche.danone.com/		28
+2012	Rencontres R	Bordeaux	http://r2012.bordeaux.inria.fr/partenaires.html	M. Bordeaux	Communauté Urbaine de Bordeaux (CUB)	government	public	government	NA	http://www.lacub.fr/		29
+2012	Rencontres R	Bordeaux	http://r2012.bordeaux.inria.fr/partenaires.html	R. (Nouvelle-)Aquitaine	ex-Région Aquitaine	government	public	government	NA	http://aquitaine.fr/		30
+2012	Rencontres R	Bordeaux	http://r2012.bordeaux.inria.fr/partenaires.html	PUR	Presses Universitaires de Rennes	company	private	academic publisher	NA	http://www.pur-editions.fr/		31
+2012	Rencontres R	Bordeaux	http://r2012.bordeaux.inria.fr/partenaires.html	O'Reilly	O'Reilly	company	private	academic publisher	NA	http://oreilly.com/		32
+2012	Rencontres R	Bordeaux	http://r2012.bordeaux.inria.fr/partenaires.html	CRC Press	Chapman & Hall/CRC Press (Taylor & Francis)	company	private	academic publisher	NA	http://www.crcpress.com/		33
+2013	Rencontres R	Lyon	https://r2013-lyon.sciencesconf.org/resource/page/id/5	SFdS	Société Française de Statistique	academic	nonprofit	scientific society	statistics	http://www.sfds.asso.fr/		34
+2013	Rencontres R	Lyon	https://r2013-lyon.sciencesconf.org/resource/page/id/5	SFE	Societé Française d'Écologie	academic	nonprofit	scientific society	ecology	http://www.sfecologie.org/		35
+2013	Rencontres R	Lyon	https://r2013-lyon.sciencesconf.org/resource/page/id/5	SFB	Société Française de Biométrie	academic	nonprofit	scientific society	biometrics	http://www.sfb.asso.fr/		36
+2013	Rencontres R	Lyon	https://r2013-lyon.sciencesconf.org/resource/sponsors	R. Rhône-Alpes	Région Rhône-Alpes	government	public	government	NA	http://www.rhonealpes.fr/		37
+2013	Rencontres R	Lyon	https://r2013-lyon.sciencesconf.org/resource/sponsors	ARC 3 - Environnement	ARC 3 - Environnement (Région Rhône-Alpes)	government	public	local research institute	ecology	http://www.arc.rhonealpes.fr/les-8-thematiques/environnement/		38
+2013	Rencontres R	Lyon	https://r2013-lyon.sciencesconf.org/resource/sponsors	U. Lyon 1	Université Claude Bernard Lyon 1 (UCBL)	academic	public	higher education	NA	http://www.univ-lyon1.fr/		39
+2013	Rencontres R	Lyon	https://r2013-lyon.sciencesconf.org/resource/sponsors	CRC Press	Chapman & Hall/CRC Press (Taylor & Francis)	company	private	academic publisher	NA	http://www.crcpress.com/browse/category/STA		40
+2013	Rencontres R	Lyon	https://r2013-lyon.sciencesconf.org/resource/sponsors	Springer	Springer Publishing	company	private	academic publisher	NA	http://www.springer.com/series/6991?detailsPage=titles		41
+2013	Rencontres R	Lyon	https://r2013-lyon.sciencesconf.org/resource/sponsors	SIGMA PLUS	SIGMA PLUS	company	private	statistical consulting	NA	http://www.sigmaplus.fr/		42
+2013	Rencontres R	Lyon	https://r2013-lyon.sciencesconf.org/resource/sponsors	Greenwich Statistics	Greenwich Statistics	company	private	statistical consulting	NA	http://greenwich-statistics.fr/		43
+2013	Rencontres R	Lyon	https://r2013-lyon.sciencesconf.org/resource/sponsors	Lysis	Lysis Consultants	company	private	statistical consulting	NA	http://www.lysis-consultants.fr/		44
+2013	Rencontres R	Lyon	https://r2013-lyon.sciencesconf.org/resource/sponsors	Revolution Analytics	Revolution Analytics	company	private	software developer	statistics	http://www.revolutionanalytics.com/		45
+2013	Rencontres R	Lyon	https://r2013-lyon.sciencesconf.org/resource/sponsors	Danone	Danone Research	company	private	industrial research	agronomy	http://research.danone.com/		46
+2013	Rencontres R	Lyon	https://r2013-lyon.sciencesconf.org/resource/sponsors	GDR Stat Santé	GDR Statistique & Santé	academic	public	national research group	health sciences	http://gdr-stat-sante.math.cnrs.fr/spip/spip.php?rubrique1		47
+2013	Rencontres R	Lyon	https://r2013-lyon.sciencesconf.org/resource/sponsors	CPE Lyon	École supérieure chimie physique électronique de Lyon	academic	public	higher education	physics,chemistry,electronics	http://www.cpe.fr/		48
+2013	Rencontres R	Lyon	https://r2013-lyon.sciencesconf.org/resource/sponsors	FST Lyon 1	Faculté des Sciences et Technologies de l'université Lyon 1	academic	public	higher education	NA	http://sciences.univ-lyon1.fr/		49
+2013	Rencontres R	Lyon	https://r2013-lyon.sciencesconf.org/resource/sponsors	GDR Vision	GDR Vision	academic	public	national research group	psychology,neurology,mathematics	http://www.gdr-vision.org/		50
+2013	Rencontres R	Lyon	https://r2013-lyon.sciencesconf.org/resource/sponsors	IXXI	Institut rhône-alpin des systèmes complexes	academic	public	local research institute	physics	http://www.ixxi.fr/		51
+2013	Rencontres R	Lyon	https://r2013-lyon.sciencesconf.org/resource/sponsors	LBBE	Laboratoire de Biométrie et Biologie Evolutive	academic	public	local research institute	biometrics	http://lbbe.univ-lyon1.fr/		52
+2013	Rencontres R	Lyon	https://r2013-lyon.sciencesconf.org/resource/sponsors	GDR Calcul	GDR Calcul	academic	public	national research group	computer science,mathematics	http://calcul.math.cnrs.fr/		53
+2013	Rencontres R	Lyon	https://r2013-lyon.sciencesconf.org/resource/sponsors	PRABI	Pôle Rhône-Alpes de Bioinformatique	academic	public	local research institute	bioinformatics	http://www.prabi.fr/		54
+2014	Rencontres R	Montpellier	https://r2014-mtp.sciencesconf.org/resource/sponsors	CNRS	Centre National de la Recherche Scientifique	academic	public	national research institute	NA	http://www.biocampus.cnrs.fr/		55
+2014	Rencontres R	Montpellier	https://r2014-mtp.sciencesconf.org/resource/sponsors	U. Montpellier 1	Université Montpellier 1	academic	public	higher education	NA	http://www.univ-montp1.fr/		56
+2014	Rencontres R	Montpellier	https://r2014-mtp.sciencesconf.org/resource/sponsors	SupAgro Montpellier	SupAgro Montpellier	academic	public	higher education	agronomy	http://www.supagro.fr/	1	57
+2014	Rencontres R	Montpellier	https://r2014-mtp.sciencesconf.org/resource/sponsors	R. Languedoc-Roussillon	Région Languedoc-Roussillon	government	public	government	NA	http://www.laregion.fr/		58
+2014	Rencontres R	Montpellier	https://r2014-mtp.sciencesconf.org/resource/sponsors	INRA	MIA : Institut National de la Recherche Agronomique, Mathématiques et Informatique Appliquées	academic	public	national research institute	mathematics,computer science	http://www.mia.inra.fr/		59
+2014	Rencontres R	Montpellier	https://r2014-mtp.sciencesconf.org/resource/sponsors	Lysis	Lysis Consultants	company	private	statistical consulting	NA	http://www.lysis-consultants.fr/		60
+2014	Rencontres R	Montpellier	https://r2014-mtp.sciencesconf.org/resource/sponsors	Ondalys	Ondalys	company	private	statistical consulting	NA	http://www.ondalys.fr/		61
+2014	Rencontres R	Montpellier	https://r2014-mtp.sciencesconf.org/resource/sponsors	SFdS	Société Française de Statistique	academic	nonprofit	scientific society	statistics	http://www.sfds.asso.fr/		62
+2015	Rencontres R	Grenoble	https://r2015-grenoble.sciencesconf.org/resource/sponsors	LJK	Laboratoire Jean Kuntzmann	academic	public	local research institute	computer science,mathematics	http://www-ljk.imag.fr/		63
+2015	Rencontres R	Grenoble	https://r2015-grenoble.sciencesconf.org/resource/sponsors	MaiMoSine	Maison de la Modélisation et de la Simulation, Nanosciences et Environnement	academic	public	local research institute	computer science,mathematics	http://www.maimosine.fr/		64
+2015	Rencontres R	Grenoble	https://r2015-grenoble.sciencesconf.org/resource/sponsors	U. Grenoble 2	Université Pierre Mendès France (UPMF) Grenoble 2	academic	public	higher education	NA	http://upmf-grenoble.fr/		65
+2015	Rencontres R	Grenoble	https://r2015-grenoble.sciencesconf.org/resource/sponsors	INRIA	Institut National de Recherche en Informatique et en Automatique	academic	public	national research institute	computer science	http://www.inria.fr/		66
+2015	Rencontres R	Grenoble	https://r2015-grenoble.sciencesconf.org/resource/sponsors	AMIES	Agence pour les Mathématiques en Interaction avec l’Entreprise et la Société	academic	public	national research institute	mathematics	https://www.agence-maths-entreprises.fr/a/		67
+2015	Rencontres R	Grenoble	https://r2015-grenoble.sciencesconf.org/resource/sponsors	IA	Investissements d'Avenir	government	public	national research fund	NA	http://www.enseignementsup-recherche.gouv.fr/cid55892/comprendre-le-programme-investissements-d-avenir.html		68
+2015	Rencontres R	Grenoble	https://r2015-grenoble.sciencesconf.org/resource/sponsors	IUT Grenoble 2	IUT Grenoble 2 (Université Pierre Mendès France)	academic	public	higher education	NA	http://www.iut2.upmf-grenoble.fr/		69
+2015	Rencontres R	Grenoble	https://r2015-grenoble.sciencesconf.org/resource/sponsors	U. Grenoble 1	Université Joseph Fourier (UJF) Grenoble 1	academic	public	higher education	NA	http://ujf-grenoble.fr/		70
+2015	Rencontres R	Grenoble	https://r2015-grenoble.sciencesconf.org/resource/sponsors	INPG	Institut National Polytechnique (INP) Grenoble	academic	public	higher education	engineering	http://www.grenoble-inp.fr/		71
+2015	Rencontres R	Grenoble	https://r2015-grenoble.sciencesconf.org/resource/sponsors	Capionis	Capionis	company	private	statistical consulting	NA	http://capionis.com/		72
+2015	Rencontres R	Grenoble	https://r2015-grenoble.sciencesconf.org/resource/sponsors	Danone	Danone Research, Centre Daniel Carasso	company	private	industrial research	agronomy	http://recherche.danone.com/		73
+2015	Rencontres R	Grenoble	https://r2015-grenoble.sciencesconf.org/resource/sponsors	DataKnowledge	DataKnowledge	company	private	statistical consulting	NA	http://www.datak.fr/		74
+2015	Rencontres R	Grenoble	https://r2015-grenoble.sciencesconf.org/resource/sponsors	RTE France	Réseau de Transport d'Électricité	company	private*	large company	electricity	https://rte-france.com/		75
+2015	Rencontres R	Grenoble	https://r2015-grenoble.sciencesconf.org/resource/sponsors	Enedis (ex-EDF)	EDF R&D	company	private*	industrial research	electricity	http://innovation.edf.com/progres-et-innovation-20.html		76
+2015	Rencontres R	Grenoble	https://r2015-grenoble.sciencesconf.org/resource/sponsors	Lysis	Lysis Consultants	company	private	statistical consulting	NA	http://www.lysis-consultants.fr/		77
+2015	Rencontres R	Grenoble	https://r2015-grenoble.sciencesconf.org/resource/sponsors	SFdS	Société Française de Statistique	academic	nonprofit	scientific society	statistics	http://www.sfds.asso.fr/		78
+2015	Rencontres R	Grenoble	https://r2015-grenoble.sciencesconf.org/resource/sponsors	CNRS	Centre National de la Recherche Scientifique	academic	public	national research institute	NA	http://www.cnrs.fr/		79
+2016	Rencontres R	Toulouse	https://r2016-toulouse.sciencesconf.org/resource/page/id/10	Airbus	Airbus	company	private*	large company	transport	https://www.airbus.com/		80
+2016	Rencontres R	Toulouse	https://r2016-toulouse.sciencesconf.org/resource/page/id/10	BIWhere	BIWhere Consulting	company	private	statistical consulting	market studies	http://biwhere.com/		81
+2016	Rencontres R	Toulouse	https://r2016-toulouse.sciencesconf.org/resource/page/id/10	Capionis	Capionis	company	private	statistical consulting	NA	http://capionis.com/		82
+2016	Rencontres R	Toulouse	https://r2016-toulouse.sciencesconf.org/resource/page/id/10	Hyphen	Hyphen	company	private	statistical consulting	health sciences	https://www.hyphen-stat.com/		83
+2016	Rencontres R	Toulouse	https://r2016-toulouse.sciencesconf.org/resource/page/id/10	Inbox	Inbox	company	private	statistical consulting	NA	http://inbox-group.fr/		84
+2016	Rencontres R	Toulouse	https://r2016-toulouse.sciencesconf.org/resource/page/id/10	Lysis	Lysis Consultants	company	private	statistical consulting	NA	http://www.lysis-consultants.net/		85
+2016	Rencontres R	Toulouse	https://r2016-toulouse.sciencesconf.org/resource/page/id/10	Micropole	Micropole	company	private	statistical consulting	NA	https://www.micropole.com/		86
+2016	Rencontres R	Toulouse	https://r2016-toulouse.sciencesconf.org/resource/page/id/10	Wide	Wide Agency	company	private	statistical consulting	NA	http://www.wideagency.com/		87
+2016	Rencontres R	Toulouse	https://r2016-toulouse.sciencesconf.org/resource/page/id/10	Methodomics	Methodomics	company	private	statistical consulting	NA	https://methodomics.com/		88
+2016	Rencontres R	Toulouse	https://r2016-toulouse.sciencesconf.org/resource/page/id/10	Orange	Orange	company	private	large company	telecommunications	https://www.orange.fr/		89
+2016	Rencontres R	Toulouse	https://r2016-toulouse.sciencesconf.org/resource/page/id/10	Danone	Danone Nutricia Research	company	private	industrial research	agronomy	https://www.danone.com/		90
+2016	Rencontres R	Toulouse	https://r2016-toulouse.sciencesconf.org/resource/page/id/10	BVA	BVA	company	private	polling institute	market studies	https://www.bva-group.com/		91
+2016	Rencontres R	Toulouse	https://r2016-toulouse.sciencesconf.org/resource/page/id/10	DataStorm	DataStorm	company	private	statistical consulting	NA	http://www.datastorm.fr/		92
+2016	Rencontres R	Toulouse	https://r2016-toulouse.sciencesconf.org/resource/page/id/10	Air France	Air France/KLM	company	private*?	large company	transport	https://www.airfranceklm.com/		93
+2016	Rencontres R	Toulouse	https://r2016-toulouse.sciencesconf.org/resource/page/id/10	CapMarket	CapMarket (Groupe Avisa)	company	private	statistical consulting	market studies	http://www.capmarket.fr/		94
+2016	Rencontres R	Toulouse	https://r2016-toulouse.sciencesconf.org/resource/page/id/10	Keyrus	Keyrus	company	private	statistical consulting	NA	https://www.keyrus.com/		95
+2016	Rencontres R	Toulouse	https://r2016-toulouse.sciencesconf.org/resource/page/id/10	RTE France	Réseau de Transport d'Électricité	company	private*	large company	electricity	https://rte-france.com/		96
+2016	Rencontres R	Toulouse	https://r2016-toulouse.sciencesconf.org/resource/page/id/10	Mediamétrie	Mediamétrie	company	private	polling institute	market studies	https://www.mediametrie.fr/		97
+2016	Rencontres R	Toulouse	https://r2016-toulouse.sciencesconf.org/resource/page/id/10	TSE	Toulouse School of Economics	academic	public	higher education	economics	https://www.tse-fr.eu/fr/gremaq		98
+2016	Rencontres R	Toulouse	https://r2016-toulouse.sciencesconf.org/resource/page/id/10	U. Toulouse 1	Université Toulouse 1	academic	public	higher education	NA	http://www.ut-capitole.fr/		99
+2016	Rencontres R	Toulouse	https://r2016-toulouse.sciencesconf.org/resource/page/id/10	U. Toulouse 3	Université Toulouse 3	academic	public	higher education	NA	http://www.univ-tlse3.fr/		100
+2016	Rencontres R	Toulouse	https://r2016-toulouse.sciencesconf.org/resource/page/id/10	AMIES	Agence pour les Mathématiques en Interaction avec l’Entreprise et la Société	academic	public	national research institute	mathematics	https://www.agence-maths-entreprises.fr/a/		101
+2016	Rencontres R	Toulouse	https://r2016-toulouse.sciencesconf.org/resource/page/id/10	IA	Investissements d'Avenir	government	public	national research fund	NA	http://www.gouvernement.fr/investissements-d-avenir-cgi		102
+2016	Rencontres R	Toulouse	https://r2016-toulouse.sciencesconf.org/resource/page/id/10	INRA	MIA : Institut National de la Recherche Agronomique, Mathématiques et Informatique Appliquées	academic	public	national research institute	mathematics,computer science	http://www.mia.inra.fr/		103
+2016	Rencontres R	Toulouse	https://r2016-toulouse.sciencesconf.org/resource/page/id/10	INRIA	IMABS : Informatique et Mathématiques pour les AgroBioSciences	academic	public	national research institute	computer science,mathematics,biology	https://www6.inra.fr/imabs		104
+2016	Rencontres R	Toulouse	https://r2016-toulouse.sciencesconf.org/resource/page/id/10	INRA	SAE2 : Institut National de la Recherche Agronomique, Sciences Sociales, Agriculture & Alimentation, Espace & Environnement	academic	public	national research institute	agronomy,ecology	http://www.sae2.inra.fr/		105
+2016	Rencontres R	Toulouse	https://r2016-toulouse.sciencesconf.org/resource/page/id/10	CNRS	Centre National de la Recherche Scientifique	academic	public	national research institute	NA	http://www.cnrs.fr/		106
+2016	Rencontres R	Toulouse	https://r2016-toulouse.sciencesconf.org/resource/page/id/10	Developpez-com	Developpez-com	company	private	media	computer science	http://r.developpez.com/		107
+2016	Rencontres R	Toulouse	https://r2016-toulouse.sciencesconf.org/resource/page/id/10	SFdS	Société Française de Statistique	academic	nonprofit	scientific society	statistics	http://www.sfds.asso.fr/		108
+2017	Rencontres R	Anglet	http://angletr2017.com/partenaires.html	Capionis	Capionis	company	private	statistical consulting	NA	http://capionis.com/		109
+2017	Rencontres R	Anglet	http://angletr2017.com/partenaires.html	DataCamp	DataCamp	company	private	statistical consulting	NA	https://www.datacamp.com/		110
+2017	Rencontres R	Anglet	http://angletr2017.com/partenaires.html	Danone	Danone Nutricia Research	company	private	industrial research	agronomy	https://www.nutriciaresearch.com/		111
+2017	Rencontres R	Anglet	http://angletr2017.com/partenaires.html	Inbox	Inbox	company	private	statistical consulting	NA	http://inbox-group.fr/		112
+2017	Rencontres R	Anglet	http://angletr2017.com/partenaires.html	DataStorm	DataStorm	company	private	statistical consulting	NA	http://www.datastorm.fr/		113
+2017	Rencontres R	Anglet	http://angletr2017.com/partenaires.html	RStudio	RStudio	company	private	software developer	NA	https://www.rstudio.com/		114
+2017	Rencontres R	Anglet	http://angletr2017.com/partenaires.html	ThinkR	ThinkR	company	private	statistical consulting	NA	https://thinkr.biz/		115
+2017	Rencontres R	Anglet	http://angletr2017.com/partenaires.html	Hupi	Hupi	company	private	statistical consulting	NA	https://www.hupi.fr/		116
+2017	Rencontres R	Anglet	http://angletr2017.com/partenaires.html	Hyphen	Hyphen	company	private	statistical consulting	health sciences	https://www.hyphen-stat.com/		117
+2017	Rencontres R	Anglet	http://angletr2017.com/partenaires.html	Methodomics	Methodomics	company	private	statistical consulting	NA	https://methodomics.com/		118
+2017	Rencontres R	Anglet	http://angletr2017.com/partenaires.html	R. (Nouvelle-)Aquitaine	ex-Région Aquitaine	government	public	government	NA	https://www.nouvelle-aquitaine.fr/		119
+2017	Rencontres R	Anglet	http://angletr2017.com/partenaires.html	Keyrus	Keyrus	company	private	statistical consulting	NA	http://www.keyrus.fr/?utm_source=journeeR&utm_medium=journeeR&utm_campaign=journeeR&utm_term=journeeR&utm_content=journeeR		120
+2017	Rencontres R	Anglet	http://angletr2017.com/partenaires.html	Dynacentrix	Dynacentrix	company	private	statistical consulting	NA	http://www.dynacentrix.com/		121
+2017	Rencontres R	Anglet	http://angletr2017.com/partenaires.html	CRC Press	Chapman & Hall/CRC Press (Taylor & Francis)	company	private	academic publisher	NA	http://www.crcpress.com/browse/category/STA		122
+2017	Rencontres R	Anglet	http://angletr2017.com/partenaires.html	U. Pau	Université de Pau et Pays d'Adour	academic	public	higher education	NA	https://www.univ-pau.fr/fr/index.html		123
+2017	Rencontres R	Anglet	http://angletr2017.com/partenaires.html	CNRS	Centre National de la Recherche Scientifique	academic	public	national research institute	NA	http://www.cnrs.fr/		124
+2017	Rencontres R	Anglet	http://angletr2017.com/partenaires.html	GDR Stat Santé	GDR Statistique & Santé	academic	public	national research group	health sciences	http://gdr-stat-sante.math.cnrs.fr/spip/spip.php?rubrique1		125
+2017	Rencontres R	Anglet	http://angletr2017.com/partenaires.html	MIRA	Structure Fédérative de Recherche MIRA, Milieux et Ressources Aquatiques	academic	public	local research institute	biology	https://milieux-aquatiques.univ-pau.fr/fr/index.html		126
+2017	Rencontres R	Anglet	http://angletr2017.com/partenaires.html	AMIES	Agence pour les Mathématiques en Interaction avec l’Entreprise et la Société	academic	public	national research institute	mathematics	https://www.agence-maths-entreprises.fr/a/		127
+2017	Rencontres R	Anglet	http://angletr2017.com/partenaires.html	IA	Investissements d'Avenir	government	public	national research fund	NA	https://www.gouvernement.fr/secretariat-general-pour-l-investissement-sgpi		128
+2017	Rencontres R	Anglet	http://angletr2017.com/partenaires.html	ACEMS	Australian Research Council (ARC) Centre of Excellence for Mathematical and Statistical Frontiers	academic	public	national research institute	mathematics	https://www.agence-maths-entreprises.fr/a/		129
+2017	Rencontres R	Anglet	http://angletr2017.com/partenaires.html	SFdS	Société Française de Statistique	academic	nonprofit	scientific society	statistics	http://www.sfds.asso.fr/		130
+2017	Rencontres R	Anglet	http://angletr2017.com/partenaires.html	SFE	Societé Française d'Écologie	academic	nonprofit	scientific society	ecology	http://www.sfecologie.org/		131
+2018	Rencontres R	Rennes	https://r2018-rennes.sciencesconf.org/resource/sponsors	Agrocampus Ouest	Agrocampus Ouest	academic	public	higher education	agronomy	http://www.agrocampus-ouest.fr/infoglueDeliverLive/		132
+2018	Rencontres R	Rennes	https://r2018-rennes.sciencesconf.org/resource/sponsors	IRMAR	Institut de Recherche Mathématiques de Rennes	academic	public	local research institute	mathematics	https://irmar.univ-rennes1.fr/		133
+2018	Rencontres R	Rennes	https://r2018-rennes.sciencesconf.org/resource/sponsors	CHL	Centre Henri Lebesgue	academic	public	higher education	mathematics	https://www.lebesgue.fr/fr		134
+2018	Rencontres R	Rennes	https://r2018-rennes.sciencesconf.org/resource/sponsors	M. Rennes	Rennes Métropole	government	public	government	NA	https://metropole.rennes.fr/		135
+2018	Rencontres R	Rennes	https://r2018-rennes.sciencesconf.org/resource/sponsors	SFdS	Société Française de Statistique	academic	nonprofit	scientific society	statistics	http://www.sfds.asso.fr/		136
+2018	Rencontres R	Rennes	https://r2018-rennes.sciencesconf.org/resource/sponsors	CREST	Centre de Recherche en Economie et Statistique	academic	public	higher education	economics,statistics	http://www.crest.fr/		137
+2018	Rencontres R	Rennes	https://r2018-rennes.sciencesconf.org/resource/sponsors	ENSAI	École Nationale de la Statistique et de l'Analyse de l'Information	academic	public	higher education	statistics,computer science	http://www.ensai.fr/		138
+2018	Rencontres R	Rennes	https://r2018-rennes.sciencesconf.org/resource/sponsors	ArData	ArData	company	private	statistical consulting	NA	http://www.ardata.fr/		139
+2018	Rencontres R	Rennes	https://r2018-rennes.sciencesconf.org/resource/sponsors	Avisia	Avisia	company	private	statistical consulting	NA	http://www.groupe-avisia.fr/		140
+2018	Rencontres R	Rennes	https://r2018-rennes.sciencesconf.org/resource/sponsors	Capionis	Capionis	company	private	statistical consulting	NA	http://capionis.com/		141
+2018	Rencontres R	Rennes	https://r2018-rennes.sciencesconf.org/resource/sponsors	DataStorm	DataStorm (ENSAE)	company	private	statistical consulting	NA	http://www.datastorm.fr/		142
+2018	Rencontres R	Rennes	https://r2018-rennes.sciencesconf.org/resource/sponsors	dreamRs	dreamRs	company	private	statistical consulting	NA	https://www.dreamrs.fr/		143
+2018	Rencontres R	Rennes	https://r2018-rennes.sciencesconf.org/resource/sponsors	Enedis (ex-EDF)	Enedis (ex-EDF)	company	private	industrial research	electricity	http://www.enedis.fr/		144
+2018	Rencontres R	Rennes	https://r2018-rennes.sciencesconf.org/resource/sponsors	Inbox	Inbox	company	private	statistical consulting	NA	http://www.inbox.fr/		145
+2018	Rencontres R	Rennes	https://r2018-rennes.sciencesconf.org/resource/sponsors	GDR Stat Santé	GDR Statistique & Santé	academic	public	national research group	health sciences	http://gdr-stat-sante.math.cnrs.fr/spip/spip.php?rubrique1		146
+2018	Rencontres R	Rennes	https://r2018-rennes.sciencesconf.org/resource/sponsors	Keyrus	Keyrus	company	private	statistical consulting	NA	http://www.keyrus.fr/		147
+2018	Rencontres R	Rennes	https://r2018-rennes.sciencesconf.org/resource/sponsors	R++	R++	company	private	statistical consulting	NA	http://rplusplus.com/		148
+2018	Rencontres R	Rennes	https://r2018-rennes.sciencesconf.org/resource/sponsors	RStudio	RStudio	company	private	software developer	NA	https://www.rstudio.com/		149
+2018	Rencontres R	Rennes	https://r2018-rennes.sciencesconf.org/resource/sponsors	Stat4Decision	Stat4Decision	company	private	statistical consulting	NA	https://www.stat4decision.com/fr/		150
+2018	Rencontres R	Rennes	https://r2018-rennes.sciencesconf.org/resource/sponsors	ThinkR	ThinkR	company	private	statistical consulting	NA	https://thinkr.fr/		151
+2018	Rencontres R	Rennes	https://r2018-rennes.sciencesconf.org/resource/sponsors	XLSTAT	XLSTAT	company	private	software developer	NA	http://www.xlstat.com/		152
+2019	useR!	Toulouse	http://www.user2019.fr/organization/	INRA	Institut National de la Recherche Agronomique	academic	public	national research institute	agronomy	http://www.inra.fr/		153
+2019	useR!	Toulouse	http://www.user2019.fr/organization/	TSE	Toulouse School of Economics	academic	public	higher education	economics	https://www.tse-fr.eu/umr-tse-r?lang=en		154
+2019	useR!	Toulouse	http://www.user2019.fr/organization/	IMT	Institut de Mathématiques de Toulouse	academic	public	local research institute	mathematics	https://www.math.univ-toulouse.fr/?lang=en		155
+2019	useR!	Toulouse	http://www.user2019.fr/	R Consortium	R Consortium	academic	nonprofit	software developer	statistics	https://www.r-consortium.org/		156
+2019	useR!	Toulouse	http://www.user2019.fr/	Deloitte	Deloitte	company	private	statistical consulting	NA	https://www2.deloitte.com/fr/fr.html		157
+2019	useR!	Toulouse	http://www.user2019.fr/	RStudio	RStudio	company	private	software developer	NA	https://www.rstudio.com/		158
+2019	useR!	Toulouse	http://www.user2019.fr/	R. Occitanie	Région Occitanie	government	public	government	NA	https://www.laregion.fr/		159
+2019	useR!	Toulouse	http://www.user2019.fr/	ThinkR	ThinkR	company	private	statistical consulting	NA	https://thinkr.fr/		160
+2019	useR!	Toulouse	http://www.user2019.fr/	Airbus	Airbus	company	private*	large company	transport	https://www.airbus.com/		161
+2019	useR!	Toulouse	http://www.user2019.fr/	M. Toulouse	Toulouse Métropole	government	public	government	NA	https://www.toulouse-metropole.fr/		162
+2019	useR!	Toulouse	http://www.user2019.fr/	Enedis (ex-EDF)	Enedis (ex-EDF)	company	private*	industrial research	electricity	https://www.edf.fr/		163
+2019	useR!	Toulouse	http://www.user2019.fr/	L'Oréal	L'Oréal	company	private	large company	NA	https://www.loreal.com/research-and-innovation		164
+2019	useR!	Toulouse	http://www.user2019.fr/	Safran	Safran	company	private	statistical consulting	NA	https://www.safran-group.com/		165
+2019	useR!	Toulouse	http://www.user2019.fr/	Open Analytics	Open Analytics	company	private	statistical consulting	NA	https://www.openanalytics.eu/		166
+2019	useR!	Toulouse	http://www.user2019.fr/	PluralSight	PluralSight	company	private	statistical consulting	NA	https://www.pluralsight.com/		167
+2019	useR!	Toulouse	http://www.user2019.fr/	AMIES	Agence pour les Mathématiques en Interaction avec l’Entreprise et la Société	academic	public	national research institute	mathematics	https://www.agence-maths-entreprises.fr/a/		168
+2019	useR!	Toulouse	http://www.user2019.fr/	IA	Investissements d'Avenir	government	public	national research fund	NA	https://www.gouvernement.fr/secretariat-general-pour-l-investissement-sgpi		169
+2019	useR!	Toulouse	http://www.user2019.fr/	INRA	Institut National de la Recherche Agronomique	academic	public	national research institute	agronomy	http://www.inra.fr/		170
+2019	useR!	Toulouse	http://www.user2019.fr/	TSE	Toulouse School of Economics	academic	public	higher education	economics	https://www.tse-fr.eu/umr-tse-r?lang=en		171
+2019	useR!	Toulouse	http://www.user2019.fr/	RTE France	Réseau de Transport d'Électricité	company	private*	large company	electricity	https://rte-france.com/		172
+2019	useR!	Toulouse	http://www.user2019.fr/	IMT	Institut de Mathématiques de Toulouse	academic	public	local research institute	mathematics	https://www.math.univ-toulouse.fr/?lang=fr		173
+2019	useR!	Toulouse	http://www.user2019.fr/	Mango Solutions	Mango Solutions	company	private	statistical consulting	NA	https://www.mango-solutions.com/		174
+2019	useR!	Toulouse	http://www.user2019.fr/	Hyphen	Hyphen	company	private	statistical consulting	health sciences	https://www.hyphen-stat.com/		175
+2019	useR!	Toulouse	http://www.user2019.fr/	Google	Google for Education > Computer Science	company	private	software developer	NA	https://edu.google.com/computer-science/?modal_active=none		176
+2019	useR!	Toulouse	http://www.user2019.fr/	BVA	BVA	company	private	polling institute	market studies	https://www.bva-group.com/		177
+2019	useR!	Toulouse	http://www.user2019.fr/	Insee	Institut national de la statistique et des études économiques	government	public	official statistics agency	statistics	https://insee.fr/en/accueil		178
+2019	useR!	Toulouse	http://www.user2019.fr/	Comparateur Assurance	Le Comparateur Assurance	company	private	insurance website	market studies	https://www.lecomparateurassurance.com/		179
+2019	useR!	Toulouse	http://www.user2019.fr/	GDR BIM	GDR Bioinformatique Moléculaire	academic	public	national research group	bioinformatics	http://www.gdr-bim.cnrs.fr/		180
+2019	useR!	Toulouse	http://www.user2019.fr/	R++	R++	company	private	statistical consulting	NA	https://rplusplus.com/en/		181
+2019	useR!	Toulouse	http://www.user2019.fr/	Jumping Rivers	Jumping Rivers	company	private	statistical consulting	NA	https://www.jumpingrivers.com/		182
+2019	useR!	Toulouse	http://www.user2019.fr/	GDR Stat Santé	GDR Statistique & Santé	academic	public	national research group	health sciences	http://gdr-stat-sante.math.cnrs.fr/spip/spip.php?rubrique1		183
+2019	useR!	Toulouse	http://www.user2019.fr/	Mediamétrie	Mediamétrie	company	private	polling institute	market studies	https://www.mediametrie.fr/		184
+2019	useR!	Toulouse	http://www.user2019.fr/	Dacta	Dacta	company	private	statistical consulting	NA	http://www.dacta.fr/		185
+2019	useR!	Toulouse	http://www.user2019.fr/	dreamRs	dreamRs	company	private	statistical consulting	NA	https://www.dreamrs.fr/		186
+2019	useR!	Toulouse	http://www.user2019.fr/	ArData	ArData	company	private	statistical consulting	NA	https://www.ardata.fr/		187
+2019	useR!	Toulouse	http://www.user2019.fr/	GDR MaDICS	GDR Masses de Données, Informations et Connaissances en Sciences	academic	public	national research group	computer science	http://www.madics.fr/		188
+2019	useR!	Toulouse	http://www.user2019.fr/	GDR MASCOT-NUM	GDR stochastic methods for the analysis of numerical codes	academic	public	national research group	mathematics	http://www.gdr-mascotnum.fr/		189
+2019	useR!	Toulouse	http://www.user2019.fr/	Stat4Decision	Stat4Decision	company	private	statistical consulting	NA	https://www.stat4decision.com/en/		190
+2019	useR!	Toulouse	http://www.user2019.fr/	Datakili	Datakili	company	private	statistical consulting	NA	https://datakili.com/en/omnichannel-customer-insights/		191
+2019	useR!	Toulouse	http://www.user2019.fr/	Cynkra	Cynkra	company	private	statistical consulting	NA	https://www.cynkra.com/		192
+2019	useR!	Toulouse	http://www.user2019.fr/	SFdS	Société Française de Statistique	academic	nonprofit	scientific society	statistics	http://www.sfds.asso.fr/		193
+2019	useR!	Toulouse	http://www.user2019.fr/	Sticker Mule	Sticker Mule	company	private	stickers…	NA	https://www.stickermule.com/		194
+2019	useR!	Toulouse	http://www.user2019.fr/	Taylor & Francis	Taylor & Francis	company	private	academic publisher	NA	https://taylorandfrancis.com/		195
+2019	useR!	Toulouse	http://www.user2019.fr/	Cambridge UP	Cambridge University Press	company	private	academic publisher	NA	https://www.cambridge.org/		196
+2019	useR!	Toulouse	http://www.user2019.fr/	Wiley	Wiley	company	private	academic publisher	NA	https://www.wiley.com/en-fr		197
+2019	useR!	Toulouse	http://www.user2019.fr/	Springer	Springer Publishing	company	private	academic publisher	NA	https://www.springer.com/gp/		198
+2020	Rencontres R	Paris	https://paris2020.rencontresr.fr/	AgroParisTech	AgroParisTech	academic	public	higher education	agronomy	http://www2.agroparistech.fr/	1	199
