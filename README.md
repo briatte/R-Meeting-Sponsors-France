@@ -14,4 +14,4 @@ Please list corrections in the [issues](https://github.com/briatte/R-Meeting-Spo
 
 # License
 
-[CC-BY](https://creativecommons.org/licenses/by/3.0/) François Briatte.
+[CC-BY](https://creativecommons.org/licenses/by/3.0/) François Briatte 2019.
