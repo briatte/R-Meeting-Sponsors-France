@@ -1,11 +1,11 @@
-This dataset lists all sponsors of national R conferences held in France.
+This dataset lists all sponsors of national R conferences held in France between 2009 and 2019.
 
 The [Google Sheets version](https://docs.google.com/spreadsheets/d/14n-TD3EmvkoBTshzgnP9m0xU6OjCITKB_ZP9-lHduX4/edit?usp=sharing) of the dataset has a codebook attached to it.
 
 # History
 
-- __v0.1__ (2019-07-12), _N_ = 199
-- __v0.2__ (2019-07-13), _N_ = 201
+- __[v0.1](https://github.com/briatte/R-Meeting-Sponsors-France/releases/tag/v0.1)__ (2019-07-12), _N_ = 199
+- __[v0.2](https://github.com/briatte/R-Meeting-Sponsors-France/releases/tag/v0.2)__ (2019-07-13), _N_ = 201
 
 Each version of the dataset will be listed as a separate [release](https://github.com/briatte/R-Meeting-Sponsors-France/releases).
 
