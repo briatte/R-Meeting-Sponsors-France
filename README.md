@@ -4,7 +4,8 @@ The [Google Sheets version](https://docs.google.com/spreadsheets/d/14n-TD3EmvkoB
 
 # History
 
-- __v0.1__ (2019-07-12)
+- __v0.1__ (2019-07-12), _N_ = 199
+- __v0.2__ (2019-07-13), _N_ = 201
 
 Each version of the dataset will be listed as a separate [release](https://github.com/briatte/R-Meeting-Sponsors-France/releases).
 
